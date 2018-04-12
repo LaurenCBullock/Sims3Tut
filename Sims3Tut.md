@@ -16,7 +16,10 @@ Image editing software of your choice (Photoshop, GIMP, SAI, etc. for texture cr
 Download the above files and install them.
 Launch TSR workshop and set the file path for Sims 3 so it can locate the game’s files
 Click create new project and choose an object to use as a template for your custom content. If you are creating an eyepatch then using glasses is the closest approximation and what you should use as a template.
+
 NOTE: some objects in your window may appear as empty boxes. This is due to you not having an expansion or stuff pack that the piece of clothing come comes from. If you don’t have the packs you can’t use the items.
+
+![TSR Workshop Item Selection](https://github.com/LaurenCBullock/Sims3Tut/blob/master/1.PNG?raw=true)
  
 I plan on making a tee-shirt so I’m going to use afTopShirtTee_crew as my template mesh
 Give your project a name and title and save it
