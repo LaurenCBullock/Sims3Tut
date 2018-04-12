@@ -1,6 +1,6 @@
-##Sims 3 Guide to creating custom content from scratch
+## Sims 3 Guide to creating custom content from scratch
 
-###*Programs needed:*
+### *Programs needed:*
 
 [TSR Workshop] (https://www.thesimsresource.com/workshop/)
 
@@ -32,7 +32,7 @@ Once the model is in milkshape you want to delete all the groups except group_ba
 
 If you want to export any of the textures from the original model you can go to the texture tab and click the edit button on the texture you want, when it brings up a separate window just click the export button and save it wherever you want. Exporting these textures is not required if you plan on creating your own. But they serve as useful reference. 
 
-##Creating the Mesh
+## Creating the Mesh
 This part required knowledge of 3D modeling and your chosen software so I’ll only be giving a brief overview of how you should model things as it applies to sims. 
 Once you’ve imported your model you’ll notice it’s all tris and that there are open edges. All open edges should be merged because it will spout errors on reimport if they aren’t + it may cause weird shading in game.
  
@@ -47,7 +47,7 @@ After creating the map, you need to texture it of course. For Sims all textures 
 My final texture looks like this. I borrowed most of my texture from the original since there wasn’t much that needs to be changed about a generic tee-shirt. The final mesh is on the right so you have an idea of how the texture looks applied.
   
 
-##Reimporting
+## Reimporting
 From here export the mesh as an .obj
 Go back and reopen milkshape, import the .obj you created
 Rename your mesh group_base and delete any materials
