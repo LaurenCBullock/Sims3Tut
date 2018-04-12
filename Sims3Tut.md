@@ -2,9 +2,9 @@
 
 ### *Programs needed:*
 
-[TSR Workshop] (https://www.thesimsresource.com/workshop/)
+[TSR Workshop](https://www.thesimsresource.com/workshop/)
 
-[Mesh Toolkit] (http://modthesims.info/d/481950)
+[Mesh Toolkit](http://modthesims.info/d/481950)
 
 [Milkshape 3D (requires full paid version)](http://www.milkshape3d.com/)
 
