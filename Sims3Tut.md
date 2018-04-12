@@ -40,24 +40,24 @@ Once the model is in milkshape you want to delete all the groups except group_ba
 
 If you want to export any of the textures from the original model you can go to the texture tab and click the edit button on the texture you want, when it brings up a separate window just click the export button and save it wherever you want. Exporting these textures is not required if you plan on creating your own. But they serve as useful reference. 
 
-![TSR Workshop Texture Export](https://github.com/LaurenCBullock/Sims3Tut/blob/master/3.png?raw=true)
+![TSR Workshop Texture Export](https://github.com/LaurenCBullock/Sims3Tut/blob/master/3.PNG?raw=true)
 
 ## Creating the Mesh
 This part required knowledge of 3D modeling and your chosen software so I’ll only be giving a brief overview of how you should model things as it applies to sims. 
 Once you’ve imported your model you’ll notice it’s all tris and that there are open edges. All open edges should be merged because it will spout errors on reimport if they aren’t + it may cause weird shading in game.
 
-![TSR Workshop Item Export](https://github.com/LaurenCBullock/Sims3Tut/blob/master/4.png?raw=true)
+![Original Mesh](https://github.com/LaurenCBullock/Sims3Tut/blob/master/4.PNG?raw=true)
  
 Things should be integrated into the preexisting mesh. If you want to make something completely unique and/or don’t want to worry about working it into the original clothing mesh that’s there you can always go through part 1 again and export the nude base and model on that. You will still need the template item later but it may be easier to model on a nude base for certain objects.
 
-![TSR Workshop Item Export](https://github.com/LaurenCBullock/Sims3Tut/blob/master/5.png?raw=true)
+![Edited Mesh](https://github.com/LaurenCBullock/Sims3Tut/blob/master/5.PNG?raw=true)
  
 Here’s my modified mesh which has reshaped a few parts and added an actual collar to the shirt 
 As a rough guideline for modeling for sims 3, try to keep things around the same polycount as the original mesh, having things too high poly will make load times slower.
  Next you need to create the UV map 
 The UV map of the clothing needs to occupy the space on the map of the body part it covers. The images below show that my shirt UVs cover the upper body, shoulders, and the arms. Make sure that you don’t modify the UVs of thing you aren’t editing, like the arm and neck. The UVs you create for your object should conform to this sort of pattern
 
-![TSR Workshop Item Export](https://github.com/LaurenCBullock/Sims3Tut/blob/master/6.png?raw=true)
+![Wireframe](https://github.com/LaurenCBullock/Sims3Tut/blob/master/6.PNG?raw=true)
   
 After creating the map, you need to texture it of course. For Sims all textures need to be create in a grayscale like the body texture you see above. The grayscale texture allows the item to be recolored in game without looking muddy. The game requires several textures but we are just going to create the main one here as there will be a more in-depth explanation later when we make the rest to put it back onto the game.
 My final texture looks like this. I borrowed most of my texture from the original since there wasn’t much that needs to be changed about a generic tee-shirt. The final mesh is on the right so you have an idea of how the texture looks applied.
