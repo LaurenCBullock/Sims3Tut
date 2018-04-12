@@ -12,7 +12,7 @@
 
 Image editing software of your choice (Photoshop, GIMP, SAI, etc. for texture creation)
 
-##Getting Started
+## Getting Started
 Download the above files and install them.
 Launch TSR workshop and set the file path for Sims 3 so it can locate the game’s files
 Click create new project and choose an object to use as a template for your custom content. If you are creating an eyepatch then using glasses is the closest approximation and what you should use as a template.
